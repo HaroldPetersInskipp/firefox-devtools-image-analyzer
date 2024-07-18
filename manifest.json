@@ -1,0 +1,8 @@
+{
+  "manifest_version": 2,
+  "name": "Enhanced Image Loader DevTool",
+  "version": "1.1",
+  "description": "Advanced tool to analyze and display all images loaded on the page",
+  "permissions": ["tabs", "activeTab", "<all_urls>"],
+  "devtools_page": "devtools/devtools-page.html"
+}
